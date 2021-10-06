@@ -1,0 +1,19 @@
+namespace Integraph.Models.IfcBase.Models
+{
+	/// <summary>
+	///     http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/ifcbenchmarkenum.htm
+	/// </summary>
+	public enum IfcBenchmarkEnum
+    {
+        Greaterthan,
+        Greaterthanorequalto,
+        Lessthan,
+        Lessthanorequalto,
+        Equalto,
+        Notequalto,
+        Includes,
+        Notincludes,
+        Includedin,
+        Notincludedin
+    }
+}

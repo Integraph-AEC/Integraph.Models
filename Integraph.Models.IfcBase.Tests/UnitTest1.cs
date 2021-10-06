@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace Integraph.Models.IfcBase
+namespace Integraph.Models.IfcBase.Tests
 {
     public class UnitTest1
     {
