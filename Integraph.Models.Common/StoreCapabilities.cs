@@ -1,4 +1,4 @@
-﻿namespace Xbim.IO
+﻿namespace Integraph.Models.IO
 {
     /// <summary>
     /// Describes the capabilities of a Model Store

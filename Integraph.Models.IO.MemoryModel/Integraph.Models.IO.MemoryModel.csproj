@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Integraph.Models.Common\Integraph.Models.Common.csproj" />
+    <ProjectReference Include="..\Integraph.Models.Ifc2x3\Integraph.Models.Ifc2x3.csproj" />
+    <ProjectReference Include="..\Integraph.Models.Ifc4\Integraph.Models.Ifc4.csproj" />
+  </ItemGroup>
+
+</Project>

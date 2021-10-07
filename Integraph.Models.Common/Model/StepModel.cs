@@ -8,9 +8,9 @@ using Integraph.Models.Common.Exceptions;
 using Integraph.Models.Common.Geometry;
 using Integraph.Models.Common.Metadata;
 using Integraph.Models.Common.Step21;
-using Xbim.IO;
-using Xbim.IO.Parser;
-using Xbim.IO.Step21;
+using Integraph.Models.IO;
+using Integraph.Models.IO.Parser;
+using Integraph.Models.IO.Step21;
 
 
 namespace Integraph.Models.Common.Model

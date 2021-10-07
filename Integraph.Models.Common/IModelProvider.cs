@@ -3,7 +3,7 @@ using System.IO;
 using Integraph.Models.Common;
 using Integraph.Models.Common.Step21;
 
-namespace Xbim.IO
+namespace Integraph.Models.IO
 {
     /// <summary>
     /// Interface defining a provider of <see cref="IModel"/>s that can be used to Create, Open and persist model data

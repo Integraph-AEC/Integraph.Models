@@ -1,4 +1,4 @@
-﻿namespace Xbim.IO
+﻿namespace Integraph.Models.IO
 {
     /// <summary>
     /// Indicates how a persisted model should be accessed

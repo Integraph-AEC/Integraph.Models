@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 using Integraph.Models.Common;
 using Integraph.Models.Common.Step21;
 
-namespace Xbim.IO.Step21.Parser
+namespace Integraph.Models.IO.Step21.Parser
 {
     public struct PropertyValue : IPropertyValue
     {

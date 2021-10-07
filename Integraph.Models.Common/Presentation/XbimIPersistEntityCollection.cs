@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Integraph.Models.Common;
 
-namespace Xbim.Presentation
+namespace Integraph.Models.Presentation
 {
     public class XbimIPersistEntityCollection<TType> : ICollection<TType> where TType : class, IPersistEntity 
     {

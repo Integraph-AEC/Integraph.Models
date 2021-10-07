@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Xbim.IO
+namespace Integraph.Models.IO
 {
     public static class TypeExtensions
     {

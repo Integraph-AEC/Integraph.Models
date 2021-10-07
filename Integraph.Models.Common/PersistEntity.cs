@@ -3,7 +3,7 @@ using System.ComponentModel;
 using System.IO;
 using Integraph.Models.Common.Exceptions;
 using Integraph.Models.Common.Metadata;
-using Xbim.IO.Step21;
+using Integraph.Models.IO.Step21;
 
 namespace Integraph.Models.Common
 {

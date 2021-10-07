@@ -5,7 +5,7 @@ using System.Linq;
 using System.Reflection;
 using Integraph.Models.Common.Exceptions;
 using Integraph.Models.Common.Metadata;
-using Xbim.IO.Step21;
+using Integraph.Models.IO.Step21;
 
 namespace Integraph.Models.Common.Delta
 {

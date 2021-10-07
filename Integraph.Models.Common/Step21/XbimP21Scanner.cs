@@ -2,7 +2,7 @@
 
 // The eXtensible Building Information Modelling (xBIM) Toolkit
 // Solution:    XbimComplete
-// Project:     Xbim.Ifc
+// Project:     Integraph.Models.Ifc
 // Filename:    P21toModelParser.cs
 // Published:   01, 2012
 // Last Edited: 9:04 AM on 20 12 2011
@@ -25,12 +25,12 @@ using Integraph.Models.Common;
 using Integraph.Models.Common.Exceptions;
 using Integraph.Models.Common.Metadata;
 using Integraph.Models.Common.Step21;
-using Xbim.IO.Parser;
-using Xbim.IO.Step21.Parser;
+using Integraph.Models.IO.Parser;
+using Integraph.Models.IO.Step21.Parser;
 
 #endregion
 
-namespace Xbim.IO.Step21
+namespace Integraph.Models.IO.Step21
 {
     /// <summary>
     /// This class is meant to replace original parser which was generated using GPPG.

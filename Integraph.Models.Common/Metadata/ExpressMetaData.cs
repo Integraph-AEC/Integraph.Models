@@ -130,7 +130,7 @@ namespace Integraph.Models.Common.Metadata
                     // populate the dictionary lookup by interface
                     foreach (var interfaceFound in typeToProcess.GetTypeInfo().GetInterfaces())
                     {
-                        if (interfaceFound.Namespace != null && !interfaceFound.Namespace.StartsWith("Xbim"))
+                        if (interfaceFound.Namespace != null && !interfaceFound.Namespace.StartsWith("Integraph"))
                             continue;
                         if (!_interfaceToExpressTypesLookup.ContainsKey(interfaceFound))
                         {

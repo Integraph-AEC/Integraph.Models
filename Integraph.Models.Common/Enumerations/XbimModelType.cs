@@ -1,4 +1,4 @@
-﻿namespace Xbim.IO
+﻿namespace Integraph.Models.IO
 {
     /// <summary>
     /// Enumeration indicating the type of model structure hosting the underlying model

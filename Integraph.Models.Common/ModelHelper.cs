@@ -5,11 +5,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
-using Xbim.IO;
+using Integraph.Models.IO;
 using Integraph.Models.Common.Exceptions;
 using Integraph.Models.Common.Metadata;
-using Xbim.IO.Step21;
-using Xbim.IO.Parser;
+using Integraph.Models.IO.Step21;
+using Integraph.Models.IO.Parser;
 
 namespace Integraph.Models.Common
 {

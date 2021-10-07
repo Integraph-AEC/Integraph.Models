@@ -33,7 +33,7 @@ using System.Diagnostics.CodeAnalysis;
 
 using QUT.Gppg;
 
-namespace Xbim.IO.Parser
+namespace Integraph.Models.IO.Parser
 {   
     /// <summary>
     /// Summary Canonical example of GPLEX automaton

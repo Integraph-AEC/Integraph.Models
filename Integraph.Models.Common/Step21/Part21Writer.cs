@@ -2,7 +2,7 @@
 
 // The eXtensible Building Information Modelling (xBIM) Toolkit
 // Solution:    XbimComplete
-// Project:     Xbim.Ifc
+// Project:     Integraph.Models.Ifc
 // Filename:    Part21FileWriter.cs
 // Published:   01, 2012
 // Last Edited: 9:04 AM on 20 12 2011
@@ -21,7 +21,7 @@ using Integraph.Models.Common.Metadata;
 using Integraph.Models.Common.Step21;
 
 
-namespace Xbim.IO.Step21
+namespace Integraph.Models.IO.Step21
 {
     public static class Part21Writer 
     {

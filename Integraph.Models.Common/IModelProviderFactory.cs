@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace Xbim.IO
+namespace Integraph.Models.IO
 {
     /// <summary>
     /// Factory to create an appropriate 

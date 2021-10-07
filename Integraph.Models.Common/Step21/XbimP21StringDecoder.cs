@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Xbim.IO.Step21
+namespace Integraph.Models.IO.Step21
 {
     public class XbimP21StringDecoder
     {

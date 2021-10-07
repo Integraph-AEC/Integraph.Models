@@ -2,7 +2,7 @@
 
 // The eXtensible Building Information Modelling (xBIM) Toolkit
 // Solution:    XbimComplete
-// Project:     Xbim.Ifc
+// Project:     Integraph.Models.Ifc
 // Filename:    StepP21Entity.cs
 // Published:   01, 2012
 // Last Edited: 9:04 AM on 20 12 2011
@@ -16,7 +16,7 @@ using System.Collections.Generic;
 
 #endregion
 
-namespace Xbim.IO.Step21.Parser
+namespace Integraph.Models.IO.Step21.Parser
 {
     public class StepP21Entity
     {

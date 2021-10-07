@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Xbim.IO.Step21
+namespace Integraph.Models.IO.Step21
 {
     public static class StepDateTimeHelper
     {

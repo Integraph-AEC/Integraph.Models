@@ -17,7 +17,7 @@ using System.Globalization;
 using System.Text;
 using QUT.Gppg;
 
-namespace Xbim.IO.Parser
+namespace Integraph.Models.IO.Parser
 {
 public enum Tokens {error=63,EOF=64,ISOSTEPSTART=65,HEADER=66,
     ENDSEC=67,DATA=68,ISOSTEPEND=69,SCOPE=70,ENDSCOPE=71,ENTITY=72,

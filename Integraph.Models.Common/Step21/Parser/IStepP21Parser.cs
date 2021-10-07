@@ -2,7 +2,7 @@
 
 // The eXtensible Building Information Modelling (xBIM) Toolkit
 // Solution:    XbimComplete
-// Project:     Xbim.Ifc
+// Project:     Integraph.Models.Ifc
 // Filename:    IStepP21Parser.cs
 // Published:   01, 2012
 // Last Edited: 9:04 AM on 20 12 2011
@@ -10,7 +10,7 @@
 
 #endregion
 
-namespace Xbim.IO.Parser
+namespace Integraph.Models.IO.Parser
 {
     internal interface IStepP21Parser
     {

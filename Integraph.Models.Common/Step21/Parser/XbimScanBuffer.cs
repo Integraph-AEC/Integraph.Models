@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Xbim.IO.Parser
+namespace Integraph.Models.IO.Parser
 {
     public class XbimScanBuffer : ScanBuff
     {

@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Text;
 
-namespace Xbim.IO.Step21
+namespace Integraph.Models.IO.Step21
 {
     public static class StepText
     {

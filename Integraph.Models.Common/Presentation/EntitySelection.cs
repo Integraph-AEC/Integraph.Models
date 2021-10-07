@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Collections.Specialized;
 using Integraph.Models.Common;
 
-namespace Xbim.Presentation
+namespace Integraph.Models.Presentation
 {
     /// <summary>
     /// Provides a container for entity selections capable of undo/redo operations and notification of changes.

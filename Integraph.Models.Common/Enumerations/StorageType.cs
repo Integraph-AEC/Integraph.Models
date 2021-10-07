@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Xbim.IO
+namespace Integraph.Models.IO
 {
    
     /// <summary>
