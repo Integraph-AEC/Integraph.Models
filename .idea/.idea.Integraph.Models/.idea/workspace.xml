@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10d32899-2e48-4751-ba65-464dec63785c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Integraph.Models/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Integraph.Models/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Integraph.Models/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Integraph.Models/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Integraph.Models.IfcBase.Tests/Integraph.Models.IfcBase.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Integraph.Models.IfcBase.Tests/Integraph.Models.IfcBase.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Integraph.Models.IfcBase.Tests/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Integraph.Models.IfcBase.Tests/UnitTest1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Integraph.Models.IfcBase/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Integraph.Models.IfcBase/IFC4_Schema.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Integraph.Models.IfcBase/Integraph.Models.IfcBase.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Integraph.Models.IfcBase/Integraph.Models.IfcBase.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Integraph.Models.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Integraph.Models.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +66,7 @@
       <workItem from="1633478451002" duration="2355000" />
       <workItem from="1633483822784" duration="6846000" />
       <workItem from="1633495520964" duration="5682000" />
+      <workItem from="1633593959322" duration="654000" />
     </task>
     <servers />
   </component>

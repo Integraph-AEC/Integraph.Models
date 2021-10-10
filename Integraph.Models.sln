@@ -7,15 +7,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integraph.Models.IfcBase", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integraph.Models.IfcBase.Tests", "Integraph.Models.IfcBase.Tests\Integraph.Models.IfcBase.Tests.csproj", "{18D7BF30-FCC2-466F-AA29-5948FAF38D56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integraph.Models.Ifc", "Integraph.Models.Ifc\Integraph.Models.Ifc.csproj", "{5EBE71EC-1507-4B8B-814B-2EB000A6BB72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integraph.Models.Ifc", "Integraph.Models.Ifc\Integraph.Models.Ifc.csproj", "{5EBE71EC-1507-4B8B-814B-2EB000A6BB72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integraph.Models.Common", "Integraph.Models.Common\Integraph.Models.Common.csproj", "{A95E5037-8A0C-4FC6-9732-CE7BBE2FE965}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integraph.Models.Common", "Integraph.Models.Common\Integraph.Models.Common.csproj", "{A95E5037-8A0C-4FC6-9732-CE7BBE2FE965}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integraph.Models.Ifc4", "Integraph.Models.Ifc4\Integraph.Models.Ifc4.csproj", "{604FEE91-9156-451D-B521-9D020EC7C5FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integraph.Models.Ifc4", "Integraph.Models.Ifc4\Integraph.Models.Ifc4.csproj", "{604FEE91-9156-451D-B521-9D020EC7C5FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integraph.Models.Ifc2x3", "Integraph.Models.Ifc2x3\Integraph.Models.Ifc2x3.csproj", "{0D0FD116-F41F-495B-97B0-419EA02EFAC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integraph.Models.Ifc2x3", "Integraph.Models.Ifc2x3\Integraph.Models.Ifc2x3.csproj", "{0D0FD116-F41F-495B-97B0-419EA02EFAC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integraph.Models.IO.MemoryModel", "Integraph.Models.IO.MemoryModel\Integraph.Models.IO.MemoryModel.csproj", "{0B305372-B10C-4FBD-B265-13B842225907}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integraph.Models.IO.MemoryModel", "Integraph.Models.IO.MemoryModel\Integraph.Models.IO.MemoryModel.csproj", "{0B305372-B10C-4FBD-B265-13B842225907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integraph.Models.Base", "Integraph.Models.Base\Integraph.Models.Base.csproj", "{7A5DFCDC-8B7B-43AC-ACCB-B0D00CC8AE24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integraph.Data", "Integraph.Data\Integraph.Data.csproj", "{1FBC0833-BD0F-495D-A447-A70E1FD6108F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integraph.Data.Tests", "Integraph.Data.Tests\Integraph.Data.Tests.csproj", "{8E553547-92D1-4537-9474-57C7F73C5F2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{0B305372-B10C-4FBD-B265-13B842225907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B305372-B10C-4FBD-B265-13B842225907}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B305372-B10C-4FBD-B265-13B842225907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5DFCDC-8B7B-43AC-ACCB-B0D00CC8AE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5DFCDC-8B7B-43AC-ACCB-B0D00CC8AE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5DFCDC-8B7B-43AC-ACCB-B0D00CC8AE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5DFCDC-8B7B-43AC-ACCB-B0D00CC8AE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBC0833-BD0F-495D-A447-A70E1FD6108F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBC0833-BD0F-495D-A447-A70E1FD6108F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBC0833-BD0F-495D-A447-A70E1FD6108F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBC0833-BD0F-495D-A447-A70E1FD6108F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E553547-92D1-4537-9474-57C7F73C5F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E553547-92D1-4537-9474-57C7F73C5F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E553547-92D1-4537-9474-57C7F73C5F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E553547-92D1-4537-9474-57C7F73C5F2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
